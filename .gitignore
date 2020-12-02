@@ -1,0 +1,22 @@
+# Output files
+output/
+app/engines/neural/resources/output
+
+#datasets & models
+data/
+resources/
+runs/
+
+# IntelliJ project files
+.idea/
+*.iml
+_MACOSX
+.DS_Store
+
+.env
+.vscode/
+**/__pycache__
+**/venv/
+
+.pytest_cache/**
+
